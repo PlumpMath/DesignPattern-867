@@ -20,6 +20,8 @@ public class Main {
         gun.fire();
 
         /*Look I do not need to worried about loading wrong bullets to wrong gun, while the ways I get gun and fire gun are independent with the type of the gun*/
+        /* Some factory may produce more than one kind of guns, but in that case, if I need one more type of gun to be added into the factory, I need to change many files*/
+        /* In this case, adding file instead of editing existing file follows the Open Close Principle*/
     }
 
 }

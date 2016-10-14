@@ -2,39 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d5f8ff95-3440-40a5-8cd1-2f71a25c156b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/ust/xinyu/AbstractFactory/Ak47.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/ust/xinyu/AbstractFactory/Ak47Bullet.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/ust/xinyu/AbstractFactory/Ak47Factory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/ust/xinyu/AbstractFactory/BulletPrototype.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/ust/xinyu/AbstractFactory/DesertEagle.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/ust/xinyu/AbstractFactory/DesertEagleBullet.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/ust/xinyu/AbstractFactory/DesertEagleFactory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/ust/xinyu/AbstractFactory/GunFactory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/ust/xinyu/AbstractFactory/GunPrototype.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/ust/xinyu/AbstractFactory/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/ust/xinyu/FactoryMethod/AdvancedKeyboard.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/ust/xinyu/FactoryMethod/DownButton.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/ust/xinyu/FactoryMethod/Keyboard.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/ust/xinyu/FactoryMethod/KeyboardFactory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/ust/xinyu/FactoryMethod/LeftButton.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/ust/xinyu/FactoryMethod/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/ust/xinyu/FactoryMethod/MethodPattern/ClassFactory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/ust/xinyu/FactoryMethod/MethodPattern/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/ust/xinyu/FactoryMethod/MethodPattern/MyClassOne.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/ust/xinyu/FactoryMethod/MethodPattern/MyClassTwo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/ust/xinyu/FactoryMethod/MethodPattern/MyInterface.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/ust/xinyu/FactoryMethod/MyButtonInterface.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/ust/xinyu/FactoryMethod/MyKeyboardInterface.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/ust/xinyu/FactoryMethod/RightButton.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/ust/xinyu/FactoryMethod/StaticMethodPattern/ClassFactory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/ust/xinyu/FactoryMethod/StaticMethodPattern/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/ust/xinyu/FactoryMethod/StaticMethodPattern/MyClassOne.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/ust/xinyu/FactoryMethod/StaticMethodPattern/MyClassTwo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/ust/xinyu/FactoryMethod/StaticMethodPattern/MyInterface.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/ust/xinyu/FactoryMethod/UpButton.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/ust/xinyu/FactoryMethod/CommonPattern/Main.class" afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/ust/xinyu/FactoryMethod/CommonPattern/Main.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/ust/xinyu/FactoryMethod/CommonPattern/Main.java" afterPath="$PROJECT_DIR$/src/com/ust/xinyu/FactoryMethod/CommonPattern/Main.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/ust/xinyu/AbstractFactory/Main.java" afterPath="$PROJECT_DIR$/src/com/ust/xinyu/AbstractFactory/Main.java" />
     </list>
     <ignored path="DesignPattern.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -98,8 +66,8 @@
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/ust/xinyu/AbstractFactory/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="18" column="33" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
+            <state relative-caret-position="396">
+              <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -1136,8 +1104,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/ust/xinyu/AbstractFactory/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="18" column="33" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
+        <state relative-caret-position="396">
+          <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
           <folding />
         </state>
       </provider>

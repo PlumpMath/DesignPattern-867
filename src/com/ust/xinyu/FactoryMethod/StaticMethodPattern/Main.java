@@ -1,4 +1,4 @@
-package com.ust.xinyu.FactoryMethod.CommonPattern;
+package com.ust.xinyu.FactoryMethod.StaticMethodPattern;
 
 /**
  * Created by xzhua on 2016/10/14.
@@ -6,9 +6,8 @@ package com.ust.xinyu.FactoryMethod.CommonPattern;
 public class Main {
     public static void main(String[] args){
         try {
-            ClassFactory factory=new ClassFactory();
-            MyInterface one = factory.produce("One");
-            MyInterface two = factory.produce("Two");
+            MyInterface one = ClassFactory.produceOne();
+            MyInterface two = ClassFactory.produceTwo();
             System.out.println(one.getStringFromDatabase(1));
             System.out.println(two.getStringFromDatabase(2));
 

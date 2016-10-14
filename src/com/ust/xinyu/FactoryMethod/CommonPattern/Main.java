@@ -11,6 +11,7 @@ public class Main {
             MyInterface two = factory.produce("Two");
             System.out.println(one.getStringFromDatabase(1));
             System.out.println(two.getStringFromDatabase(2));
+            ==
         } catch (Exception e) {
             e.printStackTrace();
         }

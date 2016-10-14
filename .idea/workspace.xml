@@ -2,18 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d5f8ff95-3440-40a5-8cd1-2f71a25c156b" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/ust/xinyu/FactoryMethod/CommonPattern/ClassFactory.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/ust/xinyu/FactoryMethod/CommonPattern/Main.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/ust/xinyu/FactoryMethod/CommonPattern/MyClassOne.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/ust/xinyu/FactoryMethod/CommonPattern/MyClassTwo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/ust/xinyu/FactoryMethod/CommonPattern/MyInterface.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/ust/xinyu/Helloworld.class" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/ust/xinyu/FactoryMethod/CommonPattern/Main.java" afterPath="$PROJECT_DIR$/src/com/ust/xinyu/FactoryMethod/CommonPattern/Main.java" />
     </list>
     <ignored path="DesignPattern.iws" />
@@ -48,8 +36,8 @@
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/ust/xinyu/FactoryMethod/CommonPattern/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+            <state relative-caret-position="286">
+              <caret line="13" column="12" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
               <folding />
             </state>
           </provider>
@@ -718,8 +706,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/ust/xinyu/FactoryMethod/CommonPattern/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+        <state relative-caret-position="286">
+          <caret line="13" column="12" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
           <folding />
         </state>
       </provider>
